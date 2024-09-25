@@ -12,6 +12,7 @@ renamed as (
 
         ----------  ids
         sku as product_id,
+        sku as product_id2,
 
         ---------- text
         name as product_name,
